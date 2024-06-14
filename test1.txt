@@ -1,0 +1,21 @@
+
+1) Server Information - 
+      Hosting Package - 	default
+      Server Name - 	s166-62-86-154
+      cPanel Version - 	110.0 (build 34)
+      Apache Version -	2.4.59
+      MySQL Version	- 5.7.44
+      Architecture -	x86_64
+      Operating System -	linux
+      Shared IP Address -	166.62.86.154
+      Path to Sendmail -	/usr/sbin/sendmail
+      Path to Perl -	/usr/bin/perl
+      Perl Version -	5.16.3
+      Kernel Version -	3.10.0-1160.80.1.vz7.191.4
+
+2) PHP PEAR Packages - 
+      Archive_Tar	1.4.14	
+      Console_Getopt	1.4.3	
+      PEAR	1.10.13	
+      Structures_Graph	1.1.1	
+      XML_Util	1.4.5
